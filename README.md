@@ -36,3 +36,17 @@ pip install requests beautifulsoup4
 
 ## Repository
 - https://github.com/satyakoredla/web_search_task.git
+
+## Example Output
+When you run the crawler, you may see output like:
+```
+Search results:
+- https://example.com
+```
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License.
+##################################################################
